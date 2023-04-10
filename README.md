@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.JS, MySQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, TypeScript, NODE.JS, MySQL
