@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML, CSS, Javascript, TypeScript, NODE.JS, React, MySQL
+- 🌱 I’m currently learning Java, Kotlin, AndroidStudio and SQL
